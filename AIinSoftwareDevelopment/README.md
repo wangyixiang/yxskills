@@ -467,7 +467,7 @@ Code changed → Impact analysis
 这个闭环的目标是让代码库形成：
 
 ```text
-Code <-> Specs <-> Tests <-> Architecture <-> Decisions
+Code ↔ Specs ↔ Tests ↔ Architecture ↔ Decisions
 ```
 
 也就是 **Living Software Documentation**。
